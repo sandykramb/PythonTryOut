@@ -34,7 +34,7 @@ monty_python = python ** 2
 brian = "hello life!"
 
 #Python thinks the apostrophe ends the string, use the backslash
-“Isn\'t that good?”
+"Isn\'t that good?"
 
 #Each character in a string is assigned a number. This number is called the index, start with 0
 #S A N D Y
