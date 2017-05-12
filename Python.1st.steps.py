@@ -1,5 +1,5 @@
 #variables
-My variable = 10
+My_variable = 10
 my_int = 7
 my_float = 1.23
 
@@ -9,7 +9,7 @@ My_bool = True
 #Change the value of my_int to 3 on line 8 – reassigning.
 my_int = 7
 my_int = 3
-print my_int
+print(my_int) 
 
 """The # sign will only comment out a single line. While you could write a multi-line comment"""
 
@@ -39,4 +39,4 @@ brian = "hello life!"
 #Each character in a string is assigned a number. This number is called the index, start with 0
 #S A N D Y
 #0 1 2 3 4
-second_letter = “SANDY”[1]
+second_letter = "SANDY"[1]
